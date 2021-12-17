@@ -1,5 +1,7 @@
 # AviatorScript
 
+> TangBean学习看代码用，不过这行提交，完全是因为换了最新的 Macbook Pro M1 Max，终于可以更新 Github 了，想更新下~
+
 [![Build Status](https://travis-ci.org/killme2008/aviatorscript.svg?branch=master)](https://travis-ci.org/killme2008/aviatorscript)
 [![Maven Central](https://img.shields.io/maven-central/v/com.googlecode.aviator/aviator.svg?label=maven%20central)](https://search.maven.org/search?q=g:com.googlecode.aviator%20AND%20aviator)
 
